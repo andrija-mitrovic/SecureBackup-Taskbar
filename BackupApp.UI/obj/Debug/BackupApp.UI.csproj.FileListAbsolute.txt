@@ -1,0 +1,59 @@
+D:\Projects\WinForms\BackupApp\BackupApp.UI\bin\Debug\BackupApp.UI.exe.config
+D:\Projects\WinForms\BackupApp\BackupApp.UI\bin\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\BackupApp\BackupApp.UI\bin\Debug\BackupApp.UI.pdb
+D:\Projects\WinForms\BackupApp\BackupApp.UI\obj\Debug\BackupApp.UI.csprojResolveAssemblyReference.cache
+D:\Projects\WinForms\BackupApp\BackupApp.UI\obj\Debug\BackupApp.UI.DisplayInfo.resources
+D:\Projects\WinForms\BackupApp\BackupApp.UI\obj\Debug\BackupApp.UI.Properties.Resources.resources
+D:\Projects\WinForms\BackupApp\BackupApp.UI\obj\Debug\BackupApp.UI.csproj.GenerateResource.Cache
+D:\Projects\WinForms\BackupApp\BackupApp.UI\obj\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\BackupApp\BackupApp.UI\obj\Debug\BackupApp.UI.pdb
+D:\Projects\WinForms\BackupApp\BackupApp.UI\bin\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp\BackupApp.UI\bin\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp\BackupApp.UI\bin\Debug\DotNetZip.dll
+D:\Projects\WinForms\BackupApp\BackupApp.UI\bin\Debug\DotNetZip.pdb
+D:\Projects\WinForms\BackupApp\BackupApp.UI\bin\Debug\DotNetZip.xml
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\bin\Debug\BackupApp.UI.exe.config
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\obj\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\obj\Debug\BackupApp.UI.pdb
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\bin\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\bin\Debug\BackupApp.UI.pdb
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\bin\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\bin\Debug\DotNetZip.dll
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\bin\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\bin\Debug\DotNetZip.pdb
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\bin\Debug\DotNetZip.xml
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\obj\Debug\BackupApp.UI.csprojResolveAssemblyReference.cache
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\obj\Debug\BackupApp.UI.DisplayInfo.resources
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\obj\Debug\BackupApp.UI.Properties.Resources.resources
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.UI\obj\Debug\BackupApp.UI.csproj.GenerateResource.Cache
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\bin\Debug\BackupApp.UI.exe.config
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\obj\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\obj\Debug\BackupApp.UI.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\bin\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\bin\Debug\BackupApp.UI.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\bin\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\bin\Debug\DotNetZip.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\bin\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\bin\Debug\DotNetZip.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\bin\Debug\DotNetZip.xml
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\obj\Debug\BackupApp.UI.csprojResolveAssemblyReference.cache
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\obj\Debug\BackupApp.UI.DisplayInfo.resources
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\obj\Debug\BackupApp.UI.Properties.Resources.resources
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.UI\obj\Debug\BackupApp.UI.csproj.GenerateResource.Cache
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\bin\Debug\BackupApp.UI.exe.config
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\obj\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\obj\Debug\BackupApp.UI.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\bin\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\bin\Debug\BackupApp.UI.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\bin\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\bin\Debug\DotNetZip.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\bin\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\bin\Debug\DotNetZip.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\bin\Debug\DotNetZip.xml
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\obj\Debug\BackupApp.UI.csprojResolveAssemblyReference.cache
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\obj\Debug\BackupApp.UI.DisplayInfo.resources
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\obj\Debug\BackupApp.UI.Properties.Resources.resources
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.UI\obj\Debug\BackupApp.UI.csproj.GenerateResource.Cache
+D:\Projects\WinForms\test\BackupApp.UI\bin\Debug\BackupApp.UI.exe.config
+D:\Projects\WinForms\test\BackupApp.UI\obj\Debug\BackupApp.UI.exe
+D:\Projects\WinForms\test\BackupApp.UI\obj\Debug\BackupApp.UI.pdb

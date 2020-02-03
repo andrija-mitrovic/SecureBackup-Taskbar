@@ -1,0 +1,32 @@
+D:\Projects\WinForms\BackupApp\BackupApp.Library\bin\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp\BackupApp.Library\bin\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp\BackupApp.Library\obj\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp\BackupApp.Library\obj\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp\BackupApp.Library\bin\Debug\DotNetZip.dll
+D:\Projects\WinForms\BackupApp\BackupApp.Library\bin\Debug\DotNetZip.pdb
+D:\Projects\WinForms\BackupApp\BackupApp.Library\bin\Debug\DotNetZip.xml
+D:\Projects\WinForms\BackupApp\BackupApp.Library\obj\Debug\BackupApp.Library.csprojResolveAssemblyReference.cache
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.Library\bin\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.Library\bin\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.Library\bin\Debug\DotNetZip.dll
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.Library\bin\Debug\DotNetZip.pdb
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.Library\bin\Debug\DotNetZip.xml
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.Library\obj\Debug\BackupApp.Library.csprojResolveAssemblyReference.cache
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.Library\obj\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp\Taskbar-notification\BackupApp.Library\obj\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.Library\bin\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.Library\bin\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.Library\bin\Debug\DotNetZip.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.Library\bin\Debug\DotNetZip.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.Library\bin\Debug\DotNetZip.xml
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.Library\obj\Debug\BackupApp.Library.csprojResolveAssemblyReference.cache
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.Library\obj\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification)\BackupApp.Library\obj\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.Library\bin\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.Library\bin\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.Library\bin\Debug\DotNetZip.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.Library\bin\Debug\DotNetZip.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.Library\bin\Debug\DotNetZip.xml
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.Library\obj\Debug\BackupApp.Library.dll
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.Library\obj\Debug\BackupApp.Library.pdb
+D:\Projects\WinForms\BackupApp(Taskbar-notification) Github\BackupApp.Library\obj\Debug\BackupApp.Library.csprojResolveAssemblyReference.cache
